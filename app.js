@@ -6,10 +6,10 @@ if (coffeeCupFull) {
     console.log("Make more coffee!");  
 }
 
-coffeeCupFull = true;
+cookieJar = true;
 
-if (coffeeCupFull) {
-    console.log("Get to Work");
+if (cookieJar) {
+    console.log("Eat Cookies!");
 }else{
-    console.log("Make more coffee!");  
+    console.log("Buy more Cookies!");  
 }
