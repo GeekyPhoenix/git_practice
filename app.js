@@ -13,3 +13,11 @@ if (cookieJar) {
 }else{
     console.log("Buy more Cookies!");  
 }
+
+cookieJar = true;
+
+if (cookieJar) {
+    console.log("Eat Cookies!");
+}else{
+    console.log("Buy more Cookies!");  
+}
